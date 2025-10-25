@@ -8,7 +8,5 @@ dependencies = [
     "ipykernel",
     "pandas",
     "numpy",
-    "yfinance",
-    "pickle",
-    "re"
+    "yfinance"
 ]
